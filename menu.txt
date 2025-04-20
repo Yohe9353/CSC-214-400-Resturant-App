@@ -1,2 +1,30 @@
-Meal,10 pc. Chicken Nugget,5.99
-Meal,Chicken Sandwhich,7.99
+Meal, 10 pc. Chicken Nuggets, 5.99
+Meal, Chicken Sandwich, 7.99
+Meal, Cheeseburger, 4.99
+Meal, Double Cheeseburger, 6.49
+Meal, Spicy Chicken Sandwich, 8.29
+Meal, Grilled Chicken Wrap, 6.99
+Meal, Fish Sandwich, 5.49
+Meal, 6 pc. Buffalo Wings, 7.49
+Meal, Veggie Burger, 5.79
+Meal, Crispy Chicken Tenders (4 pc.), 6.29
+Side, French Fries (Medium), 2.99
+Side, Onion Rings, 3.49
+Side, Mozzarella Sticks (5 pc.), 4.29
+Side, Sweet Potato Fries, 3.79
+Side, Caesar Salad, 4.99
+Drink, Soda (Medium), 1.99
+Drink, Milkshake (Vanilla/Chocolate), 3.99
+Drink, Iced Tea, 2.49
+Drink, Lemonade, 2.79
+Dessert, Apple Pie, 1.99
+Dessert, Chocolate Chip Cookie, 1.49
+Dessert, Ice Cream Cone, 1.79
+Combo, Nuggets + Fries + Soda, 9.49
+Combo, Cheeseburger + Fries + Soda, 8.99
+Combo, Chicken Sandwich + Fries + Soda, 11.29
+Breakfast, Egg & Cheese Muffin, 3.49
+Breakfast, Sausage Biscuit, 3.99
+Breakfast, Pancake Platter, 5.29
+Breakfast, Hashbrowns, 1.99
+
